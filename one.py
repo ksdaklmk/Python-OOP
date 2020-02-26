@@ -10,7 +10,7 @@ class Car():
 		self.status = 'clean'
 		
 
-my_car = Car('Honda', 2020)
+my_car = Car('Honda', 2019)
 print(my_car.maker)
 print(f'The car is in {my_car.status} status')
 my_car.clean()

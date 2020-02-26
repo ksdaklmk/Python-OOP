@@ -11,7 +11,6 @@ class Car():
 		
 
 my_car = Car('Honda', 2020)
-your_car = Car('Mazda', 2019)
 print(my_car.maker)
 print(f'The car is in {my_car.status} status')
 my_car.clean()

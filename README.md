@@ -5,5 +5,5 @@ Object-oriented programming (OOP) means that programs have a strong tendency of 
 With Python, it certainly can be used as a scripting language, it is designed as an object-oriented programming language.
 
 ### Prerequisites
-Basic Python 3 in 1 hour, part 1 https://youtu.be/Jw3h06aIHYk
-Basic Python 3 in 1 hour, part 2 https://youtu.be/I_fpG3wrVaQ
+1. Basic Python 3 in 1 hour, part 1 https://youtu.be/Jw3h06aIHYk
+2. Basic Python 3 in 1 hour, part 2 https://youtu.be/I_fpG3wrVaQ

@@ -7,11 +7,11 @@ With Python, it certainly can be used as a scripting language, it is designed as
 ### Prerequisites
 Basic knowledge of Python programming is required. Watch the following YouTube videos to recap your Python skills:
 
-- Basic Python 3 - Part 1
+**Basic Python 3 - Part 1**
 
 [![Part 1](http://img.youtube.com/vi/Jw3h06aIHYk/0.jpg)](http://www.youtube.com/watch?v=Jw3h06aIHYk)
 
-- Basic Python 3 - Part 2
+**Basic Python 3 - Part 2**
 
 [![Part 1](http://img.youtube.com/vi/I_fpG3wrVaQ/0.jpg)](http://www.youtube.com/watch?v=I_fpG3wrVaQ)
 

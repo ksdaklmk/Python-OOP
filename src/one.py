@@ -6,7 +6,7 @@ class Car():
 		self.status = 'dirty'
 		
 	def clean(self):
-		print('... cleaning the car! ...')
+		print('... cleaning the car :)')
 		self.status = 'clean'
 		
 

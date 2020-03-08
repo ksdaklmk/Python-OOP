@@ -21,3 +21,25 @@ Basic knowledge of Python programming is required. Watch the following YouTube v
 3. Class and static methods
 4. Inheritance
 5. Special methods
+
+### 1. Classes and instances
+
+```python
+class Car():
+
+    def __init__(self, maker, year):
+        self.maker = maker
+        self.year = year
+        self.status = 'dirty'
+    
+    def clean():
+        print('... cleaning the car!')
+        self.status = 'clean'
+
+
+my_car = Car('Honda', 2020)
+print(my_car.maker)
+print(f'The car is in {my_car.status} status')
+my_car.clean()
+print(f'The car is now in {my_car.status} status')
+```

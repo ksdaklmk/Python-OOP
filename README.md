@@ -25,7 +25,7 @@ Basic knowledge of Python programming is required. Watch the following YouTube v
 ### 1. Classes and instances
 
 ```python
-class Car():
+class Car:
 
     def __init__(self, maker, year):
         self.maker = maker

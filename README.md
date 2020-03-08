@@ -44,7 +44,7 @@ my_car.clean()
 print(f'The car is now in {my_car.status} status')
 ```
 
-### 2. Class variables
+### 3. Class and static methods
 
 ```python
 class iPhone:
